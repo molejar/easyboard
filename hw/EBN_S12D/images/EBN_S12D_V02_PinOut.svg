@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="EBN_S12D_V02_PinOut.svg"
+   inkscape:export-filename="EBN_S12D_V02_PinOut.png"
+   inkscape:export-xdpi="130"
+   inkscape:export-ydpi="130">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="119.74925"
+     inkscape:cy="190.28646"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1324"
+     inkscape:window-height="871"
+     inkscape:window-x="48"
+     inkscape:window-y="48"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient3924">
+      <stop
+         id="stop3926"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+      <stop
+         id="stop3928"
+         offset="1"
+         style="stop-color:#ff0000;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       id="filter3641"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3643"
+         flood-opacity="0.309"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3645"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3647"
+         in="composite"
+         stdDeviation="2.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3649"
+         dx="2.5"
+         dy="3"
+         result="offset" />
+      <feComposite
+         id="feComposite3651"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-652.36212)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="translate(619.86062,388.36909)"
+       id="g3984-98-2" />
+    <g
+       id="g3984-1-6-3"
+       transform="translate(619.86062,363.93122)" />
+    <g
+       transform="translate(523.35673,388.36909)"
+       id="g3984-91-8" />
+    <g
+       id="g3984-1-7-0"
+       transform="translate(523.35673,363.93122)" />
+    <g
+       id="g3518"
+       style="filter:url(#filter3641)">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:0.97963405;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;marker-end:none"
+         d="m 53.84978,718.62424 95.23588,0"
+         id="path5105-8-2-0-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:0.96271825;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none"
+         d="m 55.7658,986.93059 93.64453,0"
+         id="path5105-1-5-8-7-0"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#162cb2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95642674;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-49-9-3"
+         width="78.460152"
+         height="16.040045"
+         x="39.28186"
+         y="710.06329"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99632486,1.0036887)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="63.9734"
+         y="719.71753"
+         id="text3920-7-28-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-07-8-2"
+           x="63.9734"
+           y="719.71753"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.95589828px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">GND</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#162cb2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95642674;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-51-1-0-4"
+         width="78.460152"
+         height="16.040045"
+         x="39.28186"
+         y="978.52692"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99632486,1.0036887)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="63.941296"
+         y="987.27332"
+         id="text3920-7-91-6-8-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-32-9-9-1"
+           x="63.941296"
+           y="987.27332"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.95589828px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">GND</tspan></text>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:0.95654082;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 350.98413,694.82904 91.21577,0"
+         id="path5105-5-4-7-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:1.11740041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 351.08975,961.39671 106.53692,0"
+         id="path5105-14-1-3-3-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:1.11869848;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 351.09092,936.94618 106.78458,0"
+         id="path5105-6-2-7-0-2"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:1.11634731;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 350.83848,912.49567 106.53901,0"
+         id="path5105-3-1-9-6-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:1.0961858;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 350.70358,888.04059 102.8169,0"
+         id="path5105-9-9-0-4-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:0.95593768;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 351.1823,718.59796 91.7487,0"
+         id="path5105-8-6-1-0-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none"
+         d="m 351.66162,986.2541 87.00469,0"
+         id="path5105-1-5-5-6-6-0"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#162cb2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95962435;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-23-2-6-1-3-6"
+         width="78.985649"
+         height="16.040045"
+         x="380.35828"
+         y="710.5517"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99965582,1.0003443)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="405.11807"
+         y="722.61212"
+         id="text3920-7-5-0-4-6-5-2"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-73-9-7-0-5-1"
+           x="405.11807"
+           y="722.61212"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.99586964px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">GND</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#d70000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99965584;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-5-1-3-3-3-8-1"
+         width="78.985649"
+         height="16.040045"
+         x="380.35828"
+         y="686.82092"
+         ry="6.7724624" />
+      <text
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         transform="scale(1.0363705,0.96490589)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="390.72916"
+         y="724.55774"
+         id="text3920-7-8-5-9-3-6-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-9-7-7-0-0-7-2"
+           x="390.72916"
+           y="724.55774"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.43644714px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">VCC</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#10edf8;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.91999996, 1.91999996;stroke-dashoffset:0"
+         id="rect3150-9-1-5-8-3-3-8-4"
+         width="78.985649"
+         height="16.040045"
+         x="380.18152"
+         y="879.89838"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99965582,1.0003443)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="408.53781"
+         y="891.89996"
+         id="text3920-7-2-1-4-1-3-0-92"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-67-71-5-9-6-7-98"
+           x="408.53781"
+           y="891.89996"
+           style="font-style:italic;font-weight:bold;font-size:11.99586964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic'">IRQ</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#f8df10;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95962435;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-9-7-5-8-1-4-3"
+         width="78.985649"
+         height="16.040045"
+         x="380.18152"
+         y="904.33636"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99965582,1.0003443)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="394.09561"
+         y="916.32935"
+         id="text3920-7-64-5-5-4-4-7-0"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-5-78-2-6-5-5-0"
+           x="394.09561"
+           y="916.32935"
+           style="font-style:italic;font-weight:bold;font-size:11.99586964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic'">I2C-SDA</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#f8df10;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95962435;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-8-6-9-5-6-9-8"
+         width="78.985649"
+         height="16.040045"
+         x="380.18152"
+         y="928.77423"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99965582,1.0003443)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="391.95242"
+         y="940.75885"
+         id="text3920-7-1-1-1-2-9-9-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-98-7-5-3-0-5-9"
+           x="391.95242"
+           y="940.75885"
+           style="font-style:italic;font-weight:bold;font-size:11.99586964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic'">I2C-SCL</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#10f8f5;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95962435;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.9192487, 1.9192487;stroke-dashoffset:0"
+         id="rect3150-9-32-4-4-7-8-3-49"
+         width="78.985649"
+         height="16.040045"
+         x="380.18152"
+         y="953.21222"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99965582,1.0003443)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="407.17801"
+         y="965.18835"
+         id="text3920-7-3-28-5-2-7-4-2"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-1-8-6-5-7-1-2"
+           x="407.17801"
+           y="965.18835"
+           style="font-style:italic;font-weight:bold;font-size:11.99586964px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic'">IRQ</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#162cb2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.95962435;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-51-1-8-9-5-3-8"
+         width="78.985649"
+         height="16.040045"
+         x="380.35828"
+         y="978.07605"
+         ry="6.7724624" />
+      <text
+         transform="scale(0.99965582,1.0003443)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="405.11807"
+         y="990.12329"
+         id="text3920-7-91-35-7-4-0-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-32-8-2-5-0-8-49"
+           x="405.11807"
+           y="990.12329"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.99586964px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">GND</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-23-2-6-1-3-0-5"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="710.29053"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.89857052,1.1128787)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="390.98151"
+         y="649.33319"
+         id="text3920-7-5-0-4-6-5-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-73-9-7-0-5-2-7"
+           x="390.98151"
+           y="649.33319"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.78284645px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">27</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48281226;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-5-1-3-3-3-8-3-0"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="686.55487"
+         ry="6.7738628" />
+      <text
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         transform="scale(0.91875083,1.0884344)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="381.96368"
+         y="642.11353"
+         id="text3920-7-8-5-9-3-6-5-9-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-9-7-7-0-0-7-6-3"
+           x="381.96368"
+           y="642.11353"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.02501106px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">28</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-2-4-2-2-2-6-2-9"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="733.44037"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.83017"
+         y="600.51398"
+         id="text3920-7-9-4-6-9-6-4-7-3"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-4-0-6-7-9-0-3-5"
+           x="437.83017"
+           y="600.51398"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">26</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-3-8-8-0-2-1-4-4"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="759.17651"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.90805"
+         y="621.23303"
+         id="text3920-7-6-7-2-0-3-8-4-7"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-6-3-7-0-7-8-0-8"
+           x="437.90805"
+           y="621.23303"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">25</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-1-5-8-3-3-8-8-7"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="782.32629"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.79245"
+         y="639.87"
+         id="text3920-7-2-1-4-1-3-0-9-8"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-67-71-5-9-6-7-9-63"
+           x="437.79245"
+           y="639.87"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">24</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-9-7-5-8-1-4-4-2"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="806.76935"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.95529"
+         y="659.54797"
+         id="text3920-7-64-5-5-4-4-7-1-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-5-78-2-6-5-5-5-0"
+           x="437.95529"
+           y="659.54797"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">23</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-8-6-9-5-6-9-1-6"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="831.21228"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.99057"
+         y="679.22589"
+         id="text3920-7-1-1-1-2-9-9-7-3"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-98-7-5-3-0-5-5-1"
+           x="437.99057"
+           y="679.22589"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">22</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-32-4-4-7-8-3-4-6"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="855.65527"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.90329"
+         y="698.90393"
+         id="text3920-7-3-28-5-2-7-4-8-2"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-1-8-6-5-7-1-1-5"
+           x="437.90329"
+           y="698.90393"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">21</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-4-7-5-8-5-8-0-0"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="880.09827"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.80185"
+         y="718.58185"
+         id="text3920-7-84-8-7-2-8-2-7-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-3-3-6-4-6-2-7-15"
+           x="437.80185"
+           y="718.58185"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">20</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-81-82-6-7-0-5-2-1"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="904.54126"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.71701"
+         y="738.25983"
+         id="text3920-7-4-1-5-7-2-3-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-44-55-9-6-0-9-4-3"
+           x="437.71701"
+           y="738.25983"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">19</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-12-3-1-6-1-9-2-0"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="928.98425"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.70749"
+         y="757.93781"
+         id="text3920-7-0-6-8-3-3-8-4-8"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-7-6-5-7-6-6-3-3"
+           x="437.70749"
+           y="757.93781"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">18</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-7-1-2-6-3-6-4-11"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="953.42725"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.79245"
+         y="777.61578"
+         id="text3920-7-7-83-2-7-8-9-9-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-0-7-0-5-4-3-5-6"
+           x="437.79245"
+           y="777.61578"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">17</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-51-1-8-9-5-3-0-9"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="977.87018"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.66745"
+         y="797.35736"
+         id="text3920-7-91-35-7-4-0-5-3-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-32-8-2-5-0-8-4-4"
+           x="437.66745"
+           y="797.35736"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.66266823px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">16</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-84-6-3-8-4-3-4-7"
+         width="18.4949"
+         height="16.043362"
+         x="348.81384"
+         y="1003.0633"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="437.66745"
+         y="817.47986"
+         id="text3920-7-91-35-7-4-0-5-3-6-0"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-32-8-2-5-0-8-4-5-2"
+           x="437.66745"
+           y="817.47986"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.66266823px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">15</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-23-2-6-1-3-0-0-4"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="710.91144"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.89857052,1.1128787)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="152.57027"
+         y="649.89111"
+         id="text3920-7-5-0-4-6-5-7-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-73-9-7-0-5-2-2-6"
+           x="152.57027"
+           y="649.89111"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.78284645px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">2</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.48281226;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-5-1-3-3-3-8-3-3-1"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="687.17572"
+         ry="6.7738628" />
+      <text
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         transform="scale(0.91875083,1.0884344)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="148.76904"
+         y="642.68396"
+         id="text3920-7-8-5-9-3-6-5-9-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-9-7-7-0-0-7-6-5-4"
+           x="148.76904"
+           y="642.68396"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.02501106px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">1</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-2-4-2-2-2-6-2-1-4"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="734.06128"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="171.09644"
+         y="601.01398"
+         id="text3920-7-9-4-6-9-6-4-7-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-4-0-6-7-9-0-3-1-0"
+           x="171.09644"
+           y="601.01398"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">3</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-3-8-8-0-2-1-4-1-8"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="759.79742"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="171.03979"
+         y="621.73303"
+         id="text3920-7-6-7-2-0-3-8-4-2-4"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-6-3-7-0-7-8-0-2-2"
+           x="171.03979"
+           y="621.73303"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">4</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-1-5-8-3-3-8-8-8-2"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="782.9472"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="170.99969"
+         y="640.36993"
+         id="text3920-7-2-1-4-1-3-0-9-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-67-71-5-9-6-7-9-6-0"
+           x="170.99969"
+           y="640.36993"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">5</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-9-7-5-8-1-4-4-4-5"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="807.3902"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="170.995"
+         y="660.04797"
+         id="text3920-7-64-5-5-4-4-7-1-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-5-78-2-6-5-5-5-8-3"
+           x="170.995"
+           y="660.04797"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">6</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-8-6-9-5-6-9-1-0-5"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="831.83313"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="171.09644"
+         y="679.72589"
+         id="text3920-7-1-1-1-2-9-9-7-1-5"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-98-7-5-3-0-5-5-5-8"
+           x="171.09644"
+           y="679.72589"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">7</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-32-4-4-7-8-3-4-9-9"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="856.27618"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="171.03979"
+         y="699.40387"
+         id="text3920-7-3-28-5-2-7-4-8-6-9"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-1-8-6-5-7-1-1-7-3"
+           x="171.03979"
+           y="699.40387"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">8</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-4-7-5-8-5-8-0-2-5"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="880.71918"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="171.09406"
+         y="719.08179"
+         id="text3920-7-84-8-7-2-8-2-7-3-8"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-3-3-6-4-6-2-7-1-6"
+           x="171.09406"
+           y="719.08179"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">9</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-81-82-6-7-0-5-2-9-1"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="905.16211"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="167.36206"
+         y="738.75977"
+         id="text3920-7-4-1-5-7-2-3-4-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-44-55-9-6-0-9-4-9-6"
+           x="167.36206"
+           y="738.75977"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">10</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-12-3-1-6-1-9-2-7-5"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="929.6051"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="167.4635"
+         y="758.43774"
+         id="text3920-7-0-6-8-3-3-8-4-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-7-6-5-7-6-6-3-6-2"
+           x="167.4635"
+           y="758.43774"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">11</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-7-1-2-6-3-6-4-1-3"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="954.0481"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="167.55078"
+         y="778.11572"
+         id="text3920-7-7-83-2-7-8-9-9-7-4"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-0-7-0-5-4-3-5-8-9"
+           x="167.55078"
+           y="778.11572"
+           style="font-weight:bold;font-size:9.66266823px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#ffffff;fill-opacity:1">12</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-51-1-8-9-5-3-0-6-8"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="978.49109"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="167.51538"
+         y="797.85736"
+         id="text3920-7-91-35-7-4-0-5-3-0-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-32-8-2-5-0-8-4-7-8"
+           x="167.51538"
+           y="797.85736"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.66266823px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">13</tspan></text>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.46347788;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3150-9-84-6-3-8-4-3-4-8-8"
+         width="18.4949"
+         height="16.043362"
+         x="131.18079"
+         y="1003.6841"
+         ry="6.7738628" />
+      <text
+         transform="scale(0.80522241,1.2418929)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/atomx/Work/hw/eagle/temp/nFRDM/Doc/Core/path16056.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="167.3526"
+         y="817.9798"
+         id="text3920-7-91-35-7-4-0-5-3-6-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan3922-8-32-8-2-5-0-8-4-5-0-4"
+           x="167.3526"
+           y="817.9798"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.66266823px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">14</tspan></text>
+      <image
+         sodipodi:absref="/home/atomx/Work/GitHub/easyboard/hw/EBN_S12D/images/EBN_S12D_V02_Top.png"
+         xlink:href="EBN_S12D_V02_Top.png"
+         width="230"
+         height="386"
+         id="image3578"
+         x="134"
+         y="658.36212" />
+    </g>
+  </g>
+</svg>

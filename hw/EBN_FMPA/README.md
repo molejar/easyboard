@@ -7,19 +7,22 @@
 * **Control Pins:** Two GPIOs for Enable/Disable MUTE and SHUTDOWN
 * **Main Interface:** I2C for tuning and controlling RDA5807M
 
-#### Blocking Diagram of FM Radio Shield
+
+### Blocking Diagram
 
 <p align="center">
   <img src="images/EBN_FMRX_V01_BD.png" alt="EBN-FMPA Block Diagram"/>
 </p>
 
-#### PinOut of FM Radio Shield
+
+### PinOut
 
 <p align="center">
   <img src="images/EBN_FMRX_V01_PinOut.png" alt="EBN-FMPA PinOut" width="500"/>
 </p>
 
-#### Connection of GPS Shield with Core Shield
+
+#### Connection with Core Shield
 
 | EBN-FMPA        | EBN-KL27Z4  |
 | --------------- | ----------- |
@@ -28,3 +31,8 @@
 | SHDN            | PTA1        |
 | MUTE            | PTA2        |
 | AIO             | PTE30       |
+
+
+### Design files
+
+ * [Schematic & PCB (Eagle 7.x)](eagle)

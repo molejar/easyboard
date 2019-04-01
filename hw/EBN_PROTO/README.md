@@ -1,4 +1,4 @@
-# EBN: Dual Shield
+# EBN: Prototype Shield
 
 #### General Info
 

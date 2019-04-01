@@ -8,5 +8,5 @@
 * [EBN_SBAT](EBN_SBAT) - Smart Battery Shield
 * [EBN_STOR](EBN_STOR) - Storage Shield
 * [EBN_GPS](EBN_GPS) - GPS + SD Card Shield
-* [EBN_DUAL](EBN_DUAL) -
-* [EBN_PROTO](EBN_PROTO) -
+* [EBN_DUAL](EBN_DUAL) - Extendable Shield
+* [EBN_PROTO](EBN_PROTO) - Prototype Shield
